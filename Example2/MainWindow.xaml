@@ -9,7 +9,7 @@
     <StackPanel Margin="20">
 
         <!-- start with title for Top Trumps card-->
-        <Label HorizontalAlignment="Stretch" Content="Top 5 musician - Gleb Samoilov" BorderBrush="Black" 
+        <Label HorizontalAlignment="Stretch" Content="Toп 5 музикантів - Gleb Samoilov" BorderBrush="Black" 
                BorderThickness="1" Background="Bisque" HorizontalContentAlignment="Center" FontWeight="Bold" />
 
         <!-- now have image on left, scores on right -->
@@ -22,9 +22,9 @@
                 </Border>
                 <StackPanel Margin="20" VerticalAlignment="Center" Width="144">
 
-                    <Label Content="He wrote more than 100 songs" FontStyle="Italic" Margin="-34,0,0,20" />
-                    <Label Content="Influence on music - 10" FontStyle="Italic" Margin="-34,0,0,20" />
-                    <Label Content="Celebrity - 9" FontStyle="Italic" Margin="-34,0,0,20" />
+                    <Label Content="Написав більше 100 пісень" FontStyle="Italic" Margin="-34,0,0,20" />
+                    <Label Content="Вплив на музику - 10" FontStyle="Italic" Margin="-34,0,0,20" />
+                    <Label Content="Відомість - 9" FontStyle="Italic" Margin="-34,0,0,20" />
 
                 </StackPanel>
 
